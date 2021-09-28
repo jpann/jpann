@@ -4,8 +4,9 @@
 
 - ⚡ Technical Consultant working with Microsoft SQL Server and SQL Server Integration Services by day, hobbyist developer in my free time.
 - ⚡ I'm a 30-something year old dad, and I've been writing random code, for fun, in my free time since I was 15 years old.
-- 🌱 I’m currently learning about ASP.NET Core, Node.js and always learning about design patterns, Test Driven Development, as well as always expanding my knowledge when it comes to ETL in SQL Server Integration Services.
-- 🔭 I’m currently working on [SSRSMigrate](https://github.com/jpann/SSRSMigrate).
+- 🌱 I’m currently learning about ASP.NET Core, and Blazor. I'm always trying to learn something, so I tend to hop around from topic to topic, diving into whatever is stimulating my brain at that time.
+- 💡 I'm currently interested in Blazor and expanding my knowledge of ETL development in SQL Server Integration Services
+- 🔭 I’m currently working on a Blazor server hosted project to help with keeping track of the last time you did something. Waiting on .NET MAUI before I make any sort of public repo.
 
 
 **Stats**
