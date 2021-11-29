@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning about ASP.NET Core, and Blazor. I'm always trying to learn something, so I tend to hop around from topic to topic, diving into whatever is stimulating my brain at that time.
 - 💡 I'm currently interested in Blazor and expanding my knowledge of ETL development in SQL Server Integration Services.
 - 🔭 I'm still working on [SSRSMigrate](https://github.com/jpann/SSRSMigrate) whenever I feel like focusing on it but a lot of the major work I would like to do will require a significant refactor, which I am not sure I want to do right now.
-- 🔭 I’m currently working on a Blazor server hosted project to help with keeping track of the last time you did something. Waiting on .NET MAUI before I make any sort of public repo.
+- 🔭 I’m currently working on a Blazor server hosted project to help with keeping track of the last time you did something, but I'm waiting on .NET MAUI before I make any sort of public repo.
 
 
 **Stats**
