@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jpann" alt="jpann" /> </p>
 
-- ⚡ Technical Consultant working with Microsoft SQL Server and SQL Server Integration Services by day, hobbyist developer in my free time.
+- ⚡ Working with Microsoft SQL Server and SQL Server Integration Services by day, hobbyist developer in my free time.
 - ⚡ I'm a 30-something year old dad, and I've been writing random code, for fun, in my free time since I was 15 years old.
 - 🌱 I’m currently learning about ASP.NET Core, and Blazor. I'm always trying to learn something, so I tend to hop around from topic to topic, diving into whatever is stimulating my brain at that time.
 - 💡 I'm currently interested in Blazor and expanding my knowledge of ETL development in SQL Server Integration Services.
