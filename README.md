@@ -3,10 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jpann" alt="jpann" /> </p>
 
 - ⚡ Working with Microsoft SQL Server, SQL Server Integration Services, T-SQL and PowerShell by day, hobbyist developer in my free time.
-- ⚡ I'm a late-30s dad, and I've been writing random code, for fun, in my free time since I was 15 years old.
-- 🌱 I’m currently learning about Azure, Python, ASP.NET Core, and Blazor. I'm always trying to learn something, diving into whatever is stimulating my brain at that time.
-- 💡 I'm currently interested in expanding my knowledge of ETL/ELT data pipeline development as it pertains to Data Engineering, Azure and Python.
-
+- ⚡ I'm a dad, and I've been writing random code, for fun, in my free time since I was 15 years old.
+- 🌱 I’m currently learning about Azure, Apache Spark, Python, ASP.NET Core, and Blazor. I'm always trying to learn something, diving into whatever is stimulating my brain at that time.
+- 💡 I'm currently expanding my knowledge of ETL/ELT data pipeline development as it pertains to Data Engineering, Azure and Python.
 
 **Stats**
 <p align="left">
